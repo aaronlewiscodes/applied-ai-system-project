@@ -43,6 +43,9 @@ Recommendations printed to terminal
 
 ---
 
+### Demo YouTube Video
+https://youtu.be/FxqO7kQ7WYA
+
 ## Setup and Usage
 
 ### 1. Get a free Groq API key
