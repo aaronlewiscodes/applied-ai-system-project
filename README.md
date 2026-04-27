@@ -12,7 +12,7 @@ The system worked as follows:
 - **Recommendations** — `recommend_songs()` scored every song in the catalog and returned the top-k results along with a plain-English explanation of why each song was selected.
 - **Entry point** — `src/main.py` ran four hardcoded user profiles (pop fan, acoustic listener, EDM raver, lofi studier) and printed ranked recommendations for each.
 
-The system was fully self-contained and rule-based: given the same profile, it always produced the same output. There was no user input and no external service calls.
+The system was fully self-contained and rule-based: given the same profile, it always produced the same output. There was no user input and no external service calls. There was oppurtunity to improve this system.
 
 ---
 
